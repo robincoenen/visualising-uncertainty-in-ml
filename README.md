@@ -25,41 +25,15 @@ This visual margin is on the one hand described through a transition of one colo
 This interaction of motion/animation, color coding and projected blur allows to answer the uncertainty of machine learning algorithms classifying language content. The visuality of our concept aims to communicate to the user that the algorithm’s classification of highly contextual information is never a binary classification and that it always contains uncertainty.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 References
 Kale, A., Nguyen, F., Kay, M., & Hullman, J. (2018). Hypothetical outcome plots help untrained observers judge trends in ambiguous data. IEEE transactions on visualization and computer graphics, 25(1), 892-902. doi: 10.1109/TVCG.2018.2864909
 Correll, M., Moritz, D., & Heer, J. (2018, April). Value-suppressing uncertainty palettes. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems(pp. 1-11). https://doi.org/10.1145/3173574.3174216
 “Value-Suppressing Uncertainty Palettes”
 
-Final Prototype Link )
-http://54.152.84.212:8080/index.html
-Final Prototype Video )
+
+Final Prototype Video. 
 https://vimeo.com/417271930
-See figures below )
 
-
-Figure 1
-Source: https://twitter.com/jessamyn/status/900867154412699649
-
-
-Figure 2.
-Figure 3
 
 
 
