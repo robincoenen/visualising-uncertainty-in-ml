@@ -17,7 +17,6 @@ app.get('/perspective', async function (req, res) {
     const text = req.query.text;
     const result = await perspectiveClient.analyze(text);
     const toxicScore = result.attributeScores.TOXICITY.summaryScore.value;
-    console.log(`Probabiltiy of [${text}] is toxic is: ${toxicScore}`)
         res.send(JSON.stringify(toxicScore))
 })
  
